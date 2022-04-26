@@ -101,7 +101,7 @@
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-primary,
 .bootstrap-switch .bootstrap-switch-handle-off.bootstrap-switch-primary {
   color: #fff;
-  background: #51cbce;
+  background: #0063B1;
 }
 
 .bootstrap-switch .bootstrap-switch-handle-on.bootstrap-switch-info,
@@ -270,7 +270,7 @@
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-primary {
-  background-color: #51cbce;
+  background-color: #0063B1;
 }
 
 .bootstrap-switch.bootstrap-switch-on .bootstrap-switch-info {
@@ -632,14 +632,14 @@
 }
 
 .slider .noUi-connect {
-  background-color: #51cbce;
+  background-color: #0063B1;
   border-radius: 4px;
 }
 
 .slider .noUi-handle {
-  border-color: #51cbce;
-  background-color: #51cbce;
-  box-shadow: 0 0 10px 0 #51cbce;
+  border-color: #0063B1;
+  background-color: #0063B1;
+  box-shadow: 0 0 10px 0 #0063B1;
 }
 
 .slider.slider-info .noUi-connect {
@@ -2741,7 +2741,7 @@ License - nucleoapp.com/license/
 }
 
 .badge-primary {
-  background-color: #51cbce;
+  background-color: #0063B1;
 }
 
 .badge-info {
@@ -2803,8 +2803,8 @@ License - nucleoapp.com/license/
 .pagination-primary>li:first-child>span,
 .pagination-primary>li:last-child>a,
 .pagination-primary>li:last-child>span {
-  border: 2px solid #51cbce;
-  color: #51cbce;
+  border: 2px solid #0063B1;
+  color: #0063B1;
 }
 
 .nav-pills-primary>li.active>a,
@@ -2819,8 +2819,8 @@ License - nucleoapp.com/license/
 .pagination-primary>li.active>span:hover,
 .pagination-primary>li.active>a:focus,
 .pagination-primary>li.active>span:focus {
-  background-color: #51cbce !important;
-  border-color: #51cbce !important;
+  background-color: #0063B1 !important;
+  border-color: #0063B1 !important;
   color: #FFFFFF;
 }
 
@@ -2994,7 +2994,7 @@ License - nucleoapp.com/license/
 }
 
 .nav-blue>li.active a {
-  color: #51cbce;
+  color: #0063B1;
 }
 
 .nav-azure>li.active a {
@@ -3056,7 +3056,7 @@ License - nucleoapp.com/license/
 
 .nav-pills-primary .nav-item.show .nav-link,
 .nav-pills-primary .nav-link.active {
-  background-color: #51cbce !important;
+  background-color: #0063B1 !important;
 }
 
 .nav-pills-info .nav-item.show .nav-link,
@@ -3273,7 +3273,7 @@ blockquote small {
 
 .text-primary,
 .text-primary:hover {
-  color: #51cbce !important;
+  color: #0063B1 !important;
 }
 
 .text-info,
@@ -3459,7 +3459,7 @@ input[type="file"]>input[type="button"]::-moz-focus-inner {
 
 /*       CT colors          */
 .ct-blue {
-  color: #51cbce;
+  color: #0063B1;
 }
 
 .ct-azure {
@@ -3795,8 +3795,8 @@ fieldset[disabled] .btn.active {
 }
 
 .btn-primary {
-  background-color: #51cbce;
-  border-color: #51cbce;
+  background-color: #0063B1;
+  border-color: #0063B1;
   color: #FFFFFF;
   opacity: 1;
   filter: alpha(opacity=100);
@@ -3814,9 +3814,9 @@ fieldset[disabled] .btn.active {
 .btn-primary:not(:disabled):not(.disabled).active,
 .btn-primary:not(:disabled):not(.disabled).active:focus,
 .show>.btn-primary.dropdown-toggle {
-  background-color: #34b5b8;
+  background-color: #0063B1;
   color: #FFFFFF;
-  border-color: #34b5b8;
+  border-color: #0063B1;
   box-shadow: none;
 }
 
@@ -3848,12 +3848,12 @@ fieldset[disabled] .btn-primary:focus,
 fieldset[disabled] .btn-primary.focus,
 fieldset[disabled] .btn-primary:active,
 fieldset[disabled] .btn-primary.active {
-  background-color: #34b5b8;
-  border-color: #34b5b8;
+  background-color: #0063B1;
+  border-color: #0063B1;
 }
 
 .btn-primary.btn-link {
-  color: #51cbce;
+  color: #0063B1;
 }
 
 .btn-primary.btn-link:hover,
@@ -3863,11 +3863,11 @@ fieldset[disabled] .btn-primary.active {
 .btn-primary.btn-link:focus:active,
 .open>.btn-primary.btn-link.dropdown-toggle {
   background-color: transparent !important;
-  color: #34b5b8 !important;
+  color: #0063B1 !important;
 }
 
 .btn-primary.btn-link .caret {
-  border-top-color: #51cbce;
+  border-top-color: #0063B1;
 }
 
 .btn-primary .caret {
@@ -4338,8 +4338,8 @@ fieldset[disabled] .btn-outline-default.active {
 }
 
 .btn-outline-primary {
-  border-color: #51cbce;
-  color: #51cbce;
+  border-color: #0063B1;
+  color: #0063B1;
   opacity: 1;
   filter: alpha(opacity=100);
 }
@@ -4352,9 +4352,9 @@ fieldset[disabled] .btn-outline-default.active {
 .btn-outline-primary:active:hover,
 .btn-outline-primary.active:focus,
 .show>.btn-outline-primary.dropdown-toggle {
-  background-color: #51cbce !important;
-  color: rgba(255, 255, 255, 0.8);
-  border-color: #51cbce !important;
+  background-color: #0063B1 !important;
+  color: #fff;
+  border-color: #0063B1 !important;
 }
 
 .btn-outline-primary:hover .caret,
@@ -4397,7 +4397,7 @@ fieldset[disabled] .btn-outline-primary.focus,
 fieldset[disabled] .btn-outline-primary:active,
 fieldset[disabled] .btn-outline-primary.active {
   background-color: transparent;
-  border-color: #51cbce;
+  border-color: #0063B1;
 }
 
 .btn-outline-success {
@@ -5976,11 +5976,11 @@ textarea.form-control {
 }
 
 .progress-bar {
-  background-color: #51cbce;
+  background-color: #0063B1;
 }
 
 .progress-bar-primary {
-  background-color: #51cbce;
+  background-color: #0063B1;
 }
 
 .progress-bar-info {
@@ -6565,12 +6565,12 @@ textarea.form-control {
 }
 
 .nav-pills-primary .nav-item .nav-link {
-  border: 1px solid #51cbce !important;
-  color: #51cbce !important;
+  border: 1px solid #0063B1 !important;
+  color: #0063B1 !important;
 }
 
 .nav-pills-primary .nav-item .nav-link.active {
-  border: 1px solid #51cbce !important;
+  border: 1px solid #0063B1 !important;
   color: #FFFFFF !important;
 }
 
@@ -8786,7 +8786,7 @@ textarea.form-control {
 }
 
 .icon-primary {
-  color: #51cbce;
+  color: #0063B1;
 }
 
 .icon-info {
@@ -10522,7 +10522,7 @@ video {
 }
 
 .card-pricing .card-icon.icon-primary {
-  color: #51cbce;
+  color: #0063B1;
 }
 
 .card-pricing .card-icon.icon-success {
@@ -13631,7 +13631,7 @@ body {
 }
 
 .section-light-blue {
-  background-color: #51cbce;
+  background-color: #0063B1;
   color: #FFFFFF;
 }
 
@@ -13641,7 +13641,7 @@ body {
 }
 
 .section-dark {
-  background-color: #0b1011;
+  background-color: #0063B1;
 }
 
 .section-image,
@@ -13801,7 +13801,7 @@ body {
 }
 
 .section-light-blue {
-  background-color: #51cbce;
+  background-color: #0063B1;
   color: #FFFFFF;
 }
 
@@ -13811,7 +13811,7 @@ body {
 }
 
 .section-dark {
-  background-color: #151f20;
+  background-color: #0063B1;
 }
 
 .section-image,
@@ -13947,7 +13947,7 @@ body {
 }
 
 #cd-vertical-nav a.is-selected .cd-dot {
-  background-color: #51cbce;
+  background-color: #0063B1;
   -webkit-transform: scale(1);
   -moz-transform: scale(1);
   -ms-transform: scale(1);

@@ -2471,7 +2471,7 @@ pre.prettyprint {
 
 .presentation-page .components-container .details-text,
 .presentation-page .section-examples .details-text {
-  color: #66615b;
+  color: #fff;
   font-size: 1.1em;
   font-weight: bold;
   line-height: 1.15;
