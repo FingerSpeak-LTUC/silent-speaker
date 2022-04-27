@@ -1,27 +1,3 @@
-/*!
-
- =========================================================
- * Paper Kit Pro - v2.3.1
- =========================================================
-
- * Product Page: https://www.silent-speakers.com/product/paper-kit-2-pro
- * Copyright 2020 Silent Speakers (http://www.silent-speakers.com)
-
- * Coded by www.silent-speakers.com
-
- =========================================================
-
- * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-
- */
-/*      light colors - used for select dropdown         */
-/* ========================================================================
- * bootstrap-switch - v3.3.2
- * http://www.bootstrap-switch.org
- * ========================================================================
- * Copyright 2012-2013 Mattia Larentis
- * http://www.apache.org/licenses/LICENSE-2.0
- */
 .bootstrap-switch {
   display: inline-block;
   direction: ltr;
@@ -4335,6 +4311,17 @@ fieldset[disabled] .btn-outline-default:active,
 fieldset[disabled] .btn-outline-default.active {
   background-color: transparent;
   border-color: #66615B;
+}
+
+.logo {
+  font-family: 'sterilict', Arial, sans-serif;
+}
+
+@font-face {
+  font-family: 'sterilict';
+  src: url("../fonts/Sterilict.otf");
+  font-weight: normal;
+  font-style: normal;
 }
 
 .btn-outline-primary {
